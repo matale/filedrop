@@ -1,5 +1,8 @@
 # FileDrop
 
+I only removed and updated some dependencies, only tested the npm start command as that's all I need.
+
+
 ![npm (scoped)](https://img.shields.io/npm/v/@zix99/filedrop.svg)
 
 FileDrop is a simple NodeJS application to upload and share files on local networks.
